@@ -13,7 +13,7 @@ The major aim of thie project is to gain insight into the sales data of Walmart 
       > This analysis aims to answer the question of the sales trends of product. The result of this can help use measure the effectiveness of each sales strategy the business applies and what modificatoins are     
        needed to gain more sales.
 ####  3.Customer Analysis
-      > This analysis aims to uncover the different customers segments, purchase trends and the profitability of each customer segment.
+> This analysis aims to uncover the different customers segments, purchase trends and the profitability of each customer segment.
 
 ## Approach Used
 ####  1.Data Wrangling: This is the first step where inspection of data is done to make sure NULL values and missing values are detected and data replacement methods are used to replace, missing or NULL values.
